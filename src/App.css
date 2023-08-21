@@ -1,0 +1,55 @@
+.bg-color{
+    background-color: black;
+}
+
+.bg-clr{
+    background-color: #F6F9FC;
+}
+.text{
+    text-align:center;
+    background-image: url(components/images/last-bg-img.png);
+    height: 450px;
+}
+
+.btn-color{
+    background-color:  #FF4343;
+}
+
+.color{
+    background-image: url(components/images/bg-img.png);
+    height: 500px;
+    
+}
+
+
+.dash-bg{
+    background-color: #FFFFFF;
+}
+
+.bg-text{
+    color: #1F2C73;
+
+}
+.text-size-6{
+    font-size: 12px;
+}
+.bg-grayy{
+    color:  #5A6C90;
+}
+.strips-font{
+    font-family: fantasy;
+}
+
+
+.main-D{
+    background-color: #F6F9FC;
+}
+.font-fam{
+    font-family: 'pacifico' !important;
+}
+
+
+
+
+
+
